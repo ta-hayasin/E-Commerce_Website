@@ -2,7 +2,7 @@
 
 A fully responsive full-stack e-commerce web application built as part of an internship at **Developers Hub Corporation**.
 
-**Made by Ali Irtaza** — *Full Stack Developer Intern at Developers Hub Corporation*
+**Made by Taha Yasin** — *Full Stack Developer Intern at Developers Hub Corporation*
 
 ---
 
@@ -138,7 +138,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 👤 Author
 
-**Ali Irtaza**
+**Taha Yasin**
 *Full Stack Developer Intern*
 *Developers Hub Corporation*
 # E-Commerce_Website
