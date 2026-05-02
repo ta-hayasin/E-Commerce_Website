@@ -93,8 +93,6 @@ See [WALKTHROUGH.md](WALKTHROUGH.md) for a detailed step-by-step guide to runnin
 
 ### Quick Start
 ```bash
-# Clone the repo
-git clone https://github.com/aliirtaza58/ecommerce-fullstack-design.git
 cd ecommerce-fullstack-design
 
 # Backend
